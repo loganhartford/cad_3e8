@@ -1,0 +1,16 @@
+[StartTime]
+FEA framing bracket-Static 1.MFC=2s
+[SolverState]
+FEA framing bracket-Static 1.MFC=2
+[MainFrame]
+FEA framing bracket-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+FEA framing bracket-Static 1.MFC=No
+[SolverType]
+FEA framing bracket-Static 1.MFC=Linear Analysis
+[StudyType]
+FEA framing bracket-Static 1.MFC=0
+[StudyName]
+FEA framing bracket-Static 1.MFC=Static 1
+[Solver]
+FEA framing bracket-Static 1.MFC=Sparse
